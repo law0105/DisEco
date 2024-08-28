@@ -1,0 +1,19 @@
+---
+title: "LW_DisEco_Fall2024"
+author: "Luke Watters"
+format: html
+editor: visual
+---
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![The Epidemiological Triad is a way to show how the three key factors of disease ecology are connected.](images/clipboard-2779519854.png)
