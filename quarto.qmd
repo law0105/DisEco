@@ -80,9 +80,13 @@ Anthony Starfield describes the importance and use of models in the field of wil
 
 **Question 7**
 
-**a. Based on these findings, how confident are you that none of the pups at these sites are exposed to *T. gondii*?** We can not be confident without testing every single pup.
+**a. Based on these findings, how confident are you that none of the pups at these sites are exposed to *T. gondii*?**
 
-**b. How many more samples are necessary from the Olive Island population to be 99% confident that not a single pup has been exposed to *T. gondii*?** 35 mores samples.
+We can not be confident without testing every single pup.
+
+**b. How many more samples are necessary from the Olive Island population to be 99% confident that not a single pup has been exposed to *T. gondii*?**
+
+35 mores samples.
 
 **c. Estimate the upper bound of prevalence for exposure to *T. gondii* for each of these populations. Also, provide the confidence level for these prevalence values.**
 
