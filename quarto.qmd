@@ -95,3 +95,7 @@ Seal Bay - 95% Confidence Level that the prevalence is 3% or less.
 Olive Island - 95% Confidence Level that the prevalence is 5% or less.
 
 Dangerous Reef - 95% Confidence Level that the prevalence is 14% or less.
+
+[**Worksheet 5**]{.underline}
+
+In this lab, we learned how to prepare and analyze a fecal sample. In the demonstration, we used cow feces. First, we separated 2 grams of the feces and added 13 mL of water to mix it up. After mixing the feces up, we separated the solids from the liquids. We then vortexed this liquid and added 1 mL of the freshly vortexed liquid to 1 mL of a sugar substance. This new solution can now be dropped into the observation slides. After letting the slide sit for 5 minutes we then put the slide under the microscope to identify any helminth eggs that might have been in the feces. The slide that I looked at only had two eggs in the feces, but that number is multiplied by 50 to get to 100 helminth eggs per gram of feces.
