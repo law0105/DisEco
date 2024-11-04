@@ -99,3 +99,9 @@ Dangerous Reef - 95% Confidence Level that the prevalence is 14% or less.
 [**Worksheet 5**]{.underline}
 
 In this lab, we learned how to prepare and analyze a fecal sample. In the demonstration, we used cow feces. First, we separated 2 grams of the feces and added 13 mL of water to mix it up. After mixing the feces up, we separated the solids from the liquids. We then vortexed this liquid and added 1 mL of the freshly vortexed liquid to 1 mL of a sugar substance. This new solution can now be dropped into the observation slides. After letting the slide sit for 5 minutes we then put the slide under the microscope to identify any helminth eggs that might have been in the feces. The slide that I looked at only had two eggs in the feces, but that number is multiplied by 50 to get to 100 helminth eggs per gram of feces.
+
+[**Worksheet 6**]{.underline}
+
+**1)** I would classify the Marburg virus as a Potential Emerging Infectious Disease because the transmission of bats to humans is relatively low while, the transmission from human to human seems to be relatively high as one patient was able to infect 65 others.
+
+**2)** The first measure that should be enacted is the closing of the cave that the original patient entered, this will hopefully cut off any chances of anyone else potentially contracting the disease. The second would be to quarantine any patient with the disease and only come into contact with them with proper PPE and safety techniques. The community also needs to be alerted about the signs and symptoms of the virus, so that they have a chance to identify sick individuals and report them.
