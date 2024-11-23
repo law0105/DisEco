@@ -105,3 +105,55 @@ In this lab, we learned how to prepare and analyze a fecal sample. In the demons
 **1)** I would classify the Marburg virus as a Potential Emerging Infectious Disease because the transmission of bats to humans is relatively low while, the transmission from human to human seems to be relatively high as one patient was able to infect 65 others.
 
 **2)** The first measure that should be enacted is the closing of the cave that the original patient entered, this will hopefully cut off any chances of anyone else potentially contracting the disease. The second would be to quarantine any patient with the disease and only come into contact with them with proper PPE and safety techniques. The community also needs to be alerted about the signs and symptoms of the virus, so that they have a chance to identify sick individuals and report them.
+
+[**Worksheet 6, 7, 9**]{.underline}
+
+[**Overall Prevalence**]{.underline} - 47.2% prevalence, 95% CL - Lower CL 37.9%, Upper CL 56.6%
+
+[**Region Prevalence**]{.underline}
+
+Central Region Prevalence - 64.3% prevalence, 95% CL - Lower CL 37.1%, Upper CL 84.7%
+
+North Region Prevalence - 28.6% prevalence, 95% CL - Lower CL 17.0%, Upper CL 42.8%
+
+South Region Prevalence - 62.8% prevalence, 95% CL - Lower CL 47.7%, Upper CL 75.9%
+
+[Region Comparison]{.underline} - p = 0.0016
+
+[**Sex Prevalence**]{.underline}
+
+Male Prevalence - 37.7% prevalence, 95% CL - Lower CL 26.7%, Upper CL 50.0%
+
+Female Prevalence - 64.9% prevalence, 95% CL - Lower CL 48.6%, Upper CL 78.6%
+
+[Male vs. Female Comparison]{.underline} - p = 0.0087
+
+[**Age Prevalence**]{.underline}
+
+Young Adult Prevalence - 37.8% prevalence, 95% CL - Lower CL 23.4%, Upper CL 54.1%
+
+Adult Prevalence - 52.2% prevalence, 95% CL - Lower CL 40.4%, Upper CL 63.8%
+
+[Young Adult vs Adult Comparison]{.underline} - p = 0.2206
+
+[**Region Specific Sex Prevalence**]{.underline}
+
+Central Female Prevalence - 100% prevalence, 95% CL - Lower CL 50.0%, Upper CL 100%
+
+Central Male Prevalence - 44.4% prevalence, 95% CL - Lower CL 16.9%, Upper CL 74.9%
+
+[Central Male vs Female Comparison]{.underline} - p = 0.0859
+
+North Female Prevalence - 38.1% prevalence, 95% CL - Lower CL 19.7%, Upper CL 59.7%
+
+North Male Prevalence - 21.4% prevalence, 95% CL - Lower CL 9.8%, Upper CL 40.9%
+
+[North Male vs Female Comparison]{.underline} - p = 0.2219
+
+South Female Prevalence - 100% prevalence, 95% CL - Lower CL 73.6%, Upper CL 100%
+
+South Male Prevalence - 50.0% prevalence, 95% CL - Lower CL 32.6%, Upper CL 67.4%
+
+[South Male vs Female Comparison]{.underline} - p = 0.0030
+
+[Summary]{.underline} - The prevalence of the North is significantly smaller than that of the South and Central regions. The p-value shows that this difference is not likely just from chance. Female raccoons have a significantly higher prevalence than males, and once again the p-value shows that this difference is not likely just due to chance. However, when looking at the specific sexes in specific regions, only the South region shows that the difference between the sexes is statistically significant. So while the overall data shows that there is likely a connection between the number of females infected vs the males, I think it is unlikely due to the fact that only one region mirrored this. However, this could also likely be cleared up with the collection of more data. There is also no apparent connection between the likelihood of infection and age. Overall, it seems that the North region has a much lower prevalence of the roundworm, suggesting that there could be some environmental conditions inhibiting the spread or success of the roundworm.
